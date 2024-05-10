@@ -15,11 +15,10 @@ It is an extension of our previous work M. Zanghieri _et al._, “Event-based lo
 
 
 ## Authors
-This work was realized mainly at the EEES Lab ... by:
 - [Marcello Zanghieri](https://scholar.google.com/citations?hl=en&user=WnIqQj4AAAAJ) - University of Bologna
 - [Pierangelo Maria Rapa](https://scholar.google.com/citations?hl=en&user=TyeTuXQAAAAJ) - University of Bologna
 - [Mattia Orlandi](https://scholar.google.com/citations?hl=en&user=It3fdrEAAAAJ) - University of Bologna
-- [Dr. Elisa Donati](https://scholar.google.com/citations?hl=en&user=03ZYhbIAAAAJ) - [**Neuromorphic Cognitive Systems (NCS)** group](https://www.ini.uzh.ch/en/research/groups/ncs.html) of the[**Institute of Neuroinformatics (INI)**](https://www.ini.uzh.ch/en.html) of University of Zürich and ETH Zürich
+- [Dr. Elisa Donati](https://scholar.google.com/citations?hl=en&user=03ZYhbIAAAAJ) - Institute of Neuroinformatics (INI) of University of Zürich and ETH Zürich
 - [Prof. Luca Benini](https://scholar.google.com/citations?hl=en&user=8riq3sYAAAAJ) - University of Bologna, ETH Zürich
 - [Prof. Simone Benatti](https://scholar.google.com/citations?hl=en&user=8Fbi_kwAAAAJ) - University of Bologna, University of Modena and Reggio Emilia
 
