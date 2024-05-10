@@ -9,9 +9,8 @@ It is an extension of our previous work M. Zanghieri _et al._, “Event-based lo
 
 
 ## Usage
-1. Run ``spikification.ipynb`` (or equivalently ``spikification.py``) to spikify the NinaPro Database 8. 
-2. Run ``experiment_taus.ipynb`` (or equivalently ``experiment_taus.py``) for the regression epxeriments.
-3. Run ``read_results.ipynb`` to get the results statistics.
+1. Run ``experiment_regressions.ipynb`` (or equivalently ``experiment_regressions.py``). 
+2. Run ``read_results.ipynb`` to get the results statistics.
 
 
 
