@@ -15,11 +15,15 @@ It is an extension of our previous work M. Zanghieri _et al._, “Event-based lo
 
 
 ## Authors
-This work was realized at the [**Neuromorphic Cognitive Systems (NCS)** group](https://www.ini.uzh.ch/en/research/groups/ncs.html) of the [**Institute of Neuroinformatics (INI)**](https://www.ini.uzh.ch/en.html) of University of Zürich and ETH Zürich by:
-- [Marcello Zanghieri](https://scholar.google.com/citations?user=WnIqQj4AAAAJ&hl=en) - University of Bologna (work conducted while a visiting PhD student at INI's NCS)
-- [Prof. Simone Benatti](https://scholar.google.com/citations?hl=en&user=8Fbi_kwAAAAJ) - University of Bologna, University of Modena and Reggio Emilia
+This work was realized mainly at the EEES Lab ... by:
+- [Marcello Zanghieri](https://scholar.google.com/citations?hl=en&user=WnIqQj4AAAAJ) - University of Bologna
+- [Pierangelo Maria Rapa](https://scholar.google.com/citations?hl=en&user=TyeTuXQAAAAJ) - University of Bologna
+- [Mattia Orlandi](https://scholar.google.com/citations?hl=en&user=It3fdrEAAAAJ) - University of Bologna
+- [Dr. Elisa Donati](https://scholar.google.com/citations?hl=en&user=03ZYhbIAAAAJ) - [**Neuromorphic Cognitive Systems (NCS)** group](https://www.ini.uzh.ch/en/research/groups/ncs.html) of the[**Institute of Neuroinformatics (INI)**](https://www.ini.uzh.ch/en.html) of University of Zürich and ETH Zürich
 - [Prof. Luca Benini](https://scholar.google.com/citations?hl=en&user=8riq3sYAAAAJ) - University of Bologna, ETH Zürich
-- [Dr. Elisa Donati](https://scholar.google.com/citations?hl=en&user=03ZYhbIAAAAJ) - Institute of Neuroinformatics (INI) of University of Zürich and ETH Zürich
+- [Prof. Simone Benatti](https://scholar.google.com/citations?hl=en&user=8Fbi_kwAAAAJ) - University of Bologna, University of Modena and Reggio Emilia
+
+
 
 
 
@@ -43,7 +47,7 @@ When using or referencing the project, please cite our paper:
 
 ## References
 <a id="1">[1]</a>
-M. Zanghieri, P.M. Rapa, M.Orlandi, E. Donati, L. Benini, S. Benatti “Event-based Estimation of Hand Forces from High-Density Surface EMG on a Parallel Ultra-Low-Power Microcontroller,” _IEEE Sensors Journal_,  pp. 1–1, 2024. DOI: [10.1109/JSEN.2024.3359917](https://doi.org/10.1109/JSEN.2024.3359917). 
+M. Zanghieri, P.M. Rapa, M. Orlandi, E. Donati, L. Benini, S. Benatti “Event-based Estimation of Hand Forces from High-Density Surface EMG on a Parallel Ultra-Low-Power Microcontroller,” _IEEE Sensors Journal_,  pp. 1–1, 2024. DOI: [10.1109/JSEN.2024.3359917](https://doi.org/10.1109/JSEN.2024.3359917). 
 <a id="2">[2]</a>
 M. Zanghieri, S. Benatti, L. Benini, and E. Donati, “Event-based low-power and low-latency regression method for hand kinematics from surface EMG,” in _2023 9th International Workshop on Advances in Sensors and Interfaces (IWASI)_, 2023, pp. 293–298. DOI: [10.1109/IWASI58316.2023.10164372](https://doi.org/10.1109/IWASI58316.2023.10164372)
 
