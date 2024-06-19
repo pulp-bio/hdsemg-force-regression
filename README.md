@@ -47,7 +47,7 @@ When using or referencing the project, please cite our paper:
 
 ## References
 <a id="1">[1]</a>
-M. Zanghieri, P.M. Rapa, M. Orlandi, E. Donati, L. Benini, S. Benatti “Event-based Estimation of Hand Forces from High-Density Surface EMG on a Parallel Ultra-Low-Power Microcontroller,” _IEEE Sensors Journal_,  pp. 1–1, 2024. DOI: [10.1109/JSEN.2024.3359917](https://doi.org/10.1109/JSEN.2024.3359917).
+M. Zanghieri, P.M. Rapa, M. Orlandi, E. Donati, L. Benini, S. Benatti, “Event-based Estimation of Hand Forces from High-Density Surface EMG on a Parallel Ultra-Low-Power Microcontroller,” _IEEE Sensors Journal_,  pp. 1–1, 2024. DOI: [10.1109/JSEN.2024.3359917](https://doi.org/10.1109/JSEN.2024.3359917).
 
 <a id="2">[2]</a>
 M. Zanghieri, S. Benatti, L. Benini, and E. Donati, “Event-based low-power and low-latency regression method for hand kinematics from surface EMG,” in _2023 9th International Workshop on Advances in Sensors and Interfaces (IWASI)_, 2023, pp. 293–298. DOI: [10.1109/IWASI58316.2023.10164372](https://doi.org/10.1109/IWASI58316.2023.10164372)
